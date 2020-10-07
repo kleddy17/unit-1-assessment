@@ -6,14 +6,26 @@ body {
 #numberbox{
     text-align: center;
     height: 10px;
+    
 }
 
 
 
 #value {
  text-align: center;
+ border: 2px solid gray;
 }
 
 .number {
     color: black;
+}
+
+#minus {
+    background-color:gray; color:white;
+    font-size:20px
+}
+
+#plus {
+    background-color: gray; color: white;
+    font-size:20px
 }
